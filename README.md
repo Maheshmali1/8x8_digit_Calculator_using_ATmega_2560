@@ -7,13 +7,13 @@ Calculator program :
 - Line One problem
 - Line Two Answer.
 Line 1 - Examples:
-  789+876,
-  9546-89,
-  8765438*678,
-  8765/76,
-  In the case of Divider Quotient adn remainder need to display side by side.
-  100/30 then the answer should be 
-  3 10  - 3 is Quotient and 10 is remainder. 
+ 1) 789+876,
+ 2) 9546-89,
+ 3)  8765438*678,
+ 4)  8765/76,
+ * In the case of Divider Quotient adn remainder need to display side by side.
+ * 100/30 then the answer should be 
+ * 3 10  - 3 is Quotient and 10 is remainder. 
   
   
 Procedure Used :
